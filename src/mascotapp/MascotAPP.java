@@ -13,7 +13,7 @@ public class MascotAPP {
         Mascota m1 = sm.crearMascota(); //Lo que me devuelve la funcion crear mascota se guarda en "m1"
         
         System.out.println(m1.toString()); //Imprime el objeto "m1"
-        
+        //hola como estan
     }
 
 }
